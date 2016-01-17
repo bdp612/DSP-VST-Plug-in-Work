@@ -2,4 +2,4 @@
 
 small examples of volume, volume in dB, and tremeolo panner.
 
-early experimental work towards building out a visualizer plug-in
+early experimental work towards building out a visualizer plug-in. only including the processAudioFrame functions.
